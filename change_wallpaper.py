@@ -3,7 +3,6 @@ import struct
 import ctypes
 import cProfile
 import threading
-from time import sleep
 from signal import *
 from random import *
 from PIL import Image
